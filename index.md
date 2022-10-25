@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Home
-description: Club fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.
+description: Club del TecNM Iztapalapa III<br />enfocado al desarrollo de software, entendimiento en algoritmos,<br />estructra de datos y programacion competitiva</a>.
 ---
