@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pagina primis lobortis sed ullamcorper
-description: Descripcion ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+description: Concurso de Programacion del Fisol Tescha.
 image: pic03.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Iniciamos activiades con la 13ra Edicion del Fisol en el Tecnologico de Estudios Superiores Chalco en compañia de nuestros compañeros del Instituto Tecnologico de Iztapalapa III. Fue una experiencia positiva donde pusimos en practica nuestros conocimientos y a su vez la capacidad de resolver problematicas en un determinado tiempo. 
