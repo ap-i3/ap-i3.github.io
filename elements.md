@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elementooos?
+title: Organigrama
 description: Descripcion Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 
