@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Platzi México
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+description: Evento al que asistimos en el pasado mes de octubre
 image: pic01.jpg
 ---
 
