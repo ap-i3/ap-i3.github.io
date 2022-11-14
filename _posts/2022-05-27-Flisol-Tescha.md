@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pagina primis lobortis sed ullamcorper
+title: Evento FLISoL TesCha
 description: Concurso de Programacion del Fisol Tescha.
 image: pic03.jpg
 ---
