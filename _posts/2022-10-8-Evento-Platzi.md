@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Platzi México
-description: Evento al que asistimos en el pasado mes de octubre
+description: Asistmos al evento de Platzi
 image: pic01.jpg
 ---
 
