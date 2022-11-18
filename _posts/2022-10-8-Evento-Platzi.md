@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Platzi México
-description: Asistmos al evento de Platzi
+description: Super Happy Dev House #CDMX
 image: pic01.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Asistimos a las oficinas de Platzi México para participar en la edición del Super Happy Dev House donde por más de 8 horas continuas pusimos en práctica nuestros conocimientos en programación y tecnología.
+Primero realizamos una lluvia de ideas de los proyectos en los que estamos trabajando; un compañero compartió el proyecto de hacer un sistema para el IMSS, resolviendo tres principales problemáticas: Registro de pacientes, falta de comunicación y rol de doctores y/o enfermeros para evitar negligencias.
+Al finalizar compartimos de manera virtual con la demás comunidad de Platzi en las oficnas de Google y con Platzi Bogotá nuestras experiencias y aprendizajes al realizar un sistema para dicha problemática. 
