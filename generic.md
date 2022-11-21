@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: Ramas del Club
 description: Conoce las diferentes ramas que tiene nuestro club.
 ---
 
