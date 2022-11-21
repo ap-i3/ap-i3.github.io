@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Platzi México
-description: Super Happy Dev House #CDMX
+description: Asistimos al evento de Platzi
 image: pic01.jpg
 ---
 
